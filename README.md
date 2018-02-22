@@ -1,2 +1,2 @@
-com.ebay_serenity_bdd
+#com.ebay_serenity_bdd
 Sample Serenity BDD toolset
