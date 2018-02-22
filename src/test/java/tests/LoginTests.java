@@ -1,8 +1,11 @@
+package tests;
 
 import net.serenitybdd.junit.runners.SerenityRunner;
 import net.thucydides.core.annotations.Steps;
 import org.junit.Test;
 import org.junit.runner.RunWith;
+import pages.LoginPage;
+import tests.BaseTest;
 
 
 @RunWith(SerenityRunner.class)
