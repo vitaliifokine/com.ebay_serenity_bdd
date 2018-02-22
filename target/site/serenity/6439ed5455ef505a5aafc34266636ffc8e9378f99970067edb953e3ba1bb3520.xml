@@ -1,0 +1,6 @@
+<acceptance-test-run title="Login with valid credentials" name="loginWithValidCredentials" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" annotated-result="ERROR" result="ERROR" duration="74217" timestamp="2018-02-21T17:10:14.484-05:00">
+  <user-story id="LoginTests" name="Login tests" path=""/>
+  <tags>
+    <tag name="Login tests" type="story"/>
+  </tags>
+</acceptance-test-run>

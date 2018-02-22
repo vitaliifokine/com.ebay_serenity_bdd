@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="LoginTests" skipped="0" tests="1" time="74.22" timestamp="2018-02-52 05:10:14"><testcase classname="LoginTests" name="Login with valid credentials"><error message="Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver</error><system-err>Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver&#13;
+LoginPage.open_login_page(LoginPage.java:23)&#13;
+LoginTests.loginWithValidCredentials(LoginTests.java:21)&#13;
+</system-err></testcase></testsuite>
