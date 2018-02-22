@@ -8,6 +8,6 @@ public abstract class BaseTest  {
     public final String chrome = "chrome";
     public final String firefox = "firefox";
 
-    @Managed(driver=chrome)
+    @Managed(driver="chrome")
     WebDriver driver;
 }
